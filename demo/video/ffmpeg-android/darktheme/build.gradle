@@ -1,0 +1,52 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion rootProject.ext.compileSdkVersion as Integer
+    buildToolsVersion rootProject.ext.buildToolsVersion as String
+
+    defaultConfig {
+        applicationId  rootProject.ext.darktheme_applicationId as String
+        minSdkVersion rootProject.ext.minSdkVersion as Integer
+        targetSdkVersion rootProject.ext.targetSdkVersion as Integer
+        versionCode rootProject.ext.versionCode as Integer
+        versionName rootProject.ext.versionName as String
+
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+
+    compile ("com.android.support:appcompat-v7:$rootProject.appcompat_v7")
+    compile ("com.google.android.gms:play-services-ads:$rootProject.google_play_service")
+ /*   compile 'com.android.support:appcompat-v7:27.0.0'
+    compile 'com.google.android.gms:play-services-ads:11.2.2'*/
+
+
+    /*  compile ("com.android.support:appcompat-v7:$rootProject.appcompat_v7")
+      compile ("com.google.android.gms:play-services-ads:$rootProject.google_play_service")*/
+
+  //  compile(ext: 'aar')
+
+    //compile("com.quickblox:quickblox-android-sdk-content:$rootProject.qbSdkVersion")
+    testCompile 'junit:junit:4.12'
+    /*androidTestCompile('com.android.support.test.espresso:espresso-core:3.0.1', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })*/
+
+    // for the color picker
+    compile 'com.rarepebble:colorpicker:2.0.0'
+
+    // for the app permission
+    //compile 'com.karumi:dexter:4.2.0'
+}
