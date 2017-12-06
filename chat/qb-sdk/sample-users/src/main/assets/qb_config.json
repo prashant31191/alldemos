@@ -1,0 +1,27 @@
+{
+  "app_id": "65760",
+  "auth_key": "6FXDj2Rh7GwDGv8",
+  "auth_secret": "xn9ab5zmwz8rAhq",
+  "account_key": "NoeiWF6Wkj98LA4ik-MM",
+  "api_domain": "https://api.quickblox.com",
+  "chat_domain": "chat.quickblox.com",
+  "gcm_sender_id": "761750217637",
+
+  "main": {
+    "app_id": "92",
+    "auth_key": "wJHdOcQSxXQGWx5",
+    "auth_secret": "BTFsj7Rtt27DAmT",
+    "account_key": "rz2sXxBt5xgSxGjALDW6",
+    "api_domain": "https://api.quickblox.com",
+    "chat_domain": "chat.quickblox.com",
+    "gcm_sender_id": "761750217637",
+
+    "app_id": "64757",
+    "auth_key": "nX8AVzv7PCRRAdL",
+    "auth_secret": "D2XtZ3WhxLFSmNj",
+    "account_key": "poeU24iySmDn6NwMTpGW",
+    "api_domain": "https://api.quickblox.com",
+    "chat_domain": "chat.quickblox.com",
+    "gcm_sender_id": "761750217637"
+  }
+}
