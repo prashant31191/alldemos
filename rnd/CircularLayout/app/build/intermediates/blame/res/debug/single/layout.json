@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Stud\\alldemos\\rnd\\CircularLayout\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_image_view_layout.xml",
+        "source": "E:\\Stud\\alldemos\\rnd\\CircularLayout\\libraries\\circlelayout\\build\\intermediates\\bundles\\default\\res\\layout\\custom_image_view_layout.xml"
+    },
+    {
+        "merged": "E:\\Stud\\alldemos\\rnd\\CircularLayout\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Stud\\alldemos\\rnd\\CircularLayout\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

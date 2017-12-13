@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Stud\alldemos\rnd\CircularLayout\libraries\circlelayout\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2bc61db433920bca12ad99f47c0f9a8486063a95">
+        <dex dex="E:\Stud\alldemos\rnd\CircularLayout\app\build\intermediates\pre-dexed\debug\classes_8ff5e3e2a4bc0b8ca8e912ea06cd415380d9d57a.jar" />
+    </item>
+
+</items>

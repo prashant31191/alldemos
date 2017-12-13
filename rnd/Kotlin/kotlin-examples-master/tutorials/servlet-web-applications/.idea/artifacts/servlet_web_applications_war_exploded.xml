@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="servlet-web-applications:war exploded">
+    <output-path>$PROJECT_DIR$/build/classes/artifacts/servlet_web_applications_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="servlet-web-applications" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.1.2" />
+          <element id="library" level="project" name="Gradle: com.sun.mail:javax.mail:1.5.0" />
+          <element id="library" level="project" name="Gradle: org.jetbrains:annotations:13.0" />
+          <element id="library" level="project" name="Gradle: javax.activation:activation:1.1" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="servlet-web-applications/web/Web Gradle : servlet-web-applications.war" />
+    </root>
+  </artifact>
+</component>

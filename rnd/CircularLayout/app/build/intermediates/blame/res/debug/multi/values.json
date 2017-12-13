@@ -1,0 +1,201 @@
+[
+    {
+        "outputFile": "E:\\Stud\\alldemos\\rnd\\CircularLayout\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 519,
+                    "endColumn": 57,
+                    "endOffset": 572
+                },
+                "from": {
+                    "file": "E:\\Stud\\alldemos\\rnd\\CircularLayout\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 577,
+                    "endColumn": 55,
+                    "endOffset": 628
+                },
+                "from": {
+                    "file": "E:\\Stud\\alldemos\\rnd\\CircularLayout\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 633,
+                    "endColumn": 52,
+                    "endOffset": 681
+                },
+                "from": {
+                    "file": "E:\\Stud\\alldemos\\rnd\\CircularLayout\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 52,
+                        "endOffset": 161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 686,
+                    "endColumn": 56,
+                    "endOffset": 738
+                },
+                "from": {
+                    "file": "E:\\Stud\\alldemos\\rnd\\CircularLayout\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 56,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 743,
+                    "endColumn": 52,
+                    "endOffset": 791
+                },
+                "from": {
+                    "file": "E:\\Stud\\alldemos\\rnd\\CircularLayout\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 166,
+                        "endColumn": 52,
+                        "endOffset": 214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 796,
+                    "endColumn": 56,
+                    "endOffset": 848
+                },
+                "from": {
+                    "file": "E:\\Stud\\alldemos\\rnd\\CircularLayout\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 224,
+                        "endColumn": 56,
+                        "endOffset": 276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 853,
+                    "endColumn": 82,
+                    "endOffset": 931
+                },
+                "from": {
+                    "file": "E:\\Stud\\alldemos\\rnd\\CircularLayout\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 5,
+                        "startOffset": 333,
+                        "endColumn": 83,
+                        "endOffset": 411
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 936,
+                    "endColumn": 50,
+                    "endOffset": 982
+                },
+                "from": {
+                    "file": "E:\\Stud\\alldemos\\rnd\\CircularLayout\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 281,
+                        "endColumn": 50,
+                        "endOffset": 327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 987,
+                    "endLine": 20,
+                    "endColumn": 12,
+                    "endOffset": 1273
+                },
+                "from": {
+                    "file": "E:\\Stud\\alldemos\\rnd\\CircularLayout\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1278,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 1433
+                },
+                "from": {
+                    "file": "E:\\Stud\\alldemos\\rnd\\CircularLayout\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]
